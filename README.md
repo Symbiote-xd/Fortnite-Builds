@@ -6,4 +6,4 @@ Credits To [SimplyBlk](https://github.com/simplyblk) & [Notsamicc](https://githu
 
 # Downloads
 
-# Pre Battle Royal
+# Pre Battle Royale
